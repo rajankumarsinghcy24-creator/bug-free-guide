@@ -1,0 +1,3 @@
+Build a tech stack decision tool using Kiro.
+Compare MERN, Django, and Spring Boot.
+Explain trade-offs instead of a single best answer.
