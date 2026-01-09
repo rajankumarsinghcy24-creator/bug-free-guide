@@ -1,2 +1,0 @@
-Kiro generated UI ideas, decision logic,
-and trade-off explanations for the tool.
